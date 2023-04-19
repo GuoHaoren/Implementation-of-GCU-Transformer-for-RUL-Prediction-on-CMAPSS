@@ -6,6 +6,8 @@ This work is modified based on https://github.com/jiaxiang-cheng/PyTorch-Transfo
 ## Quick Run
 Simply modify the parameters in `train.sh` run `bash train.sh`. 
 
+![image](https://user-images.githubusercontent.com/42372352/233019047-8a269673-f435-463c-a462-597b17c161a7.png)
+
 ## Testing
 Change MODES='Train' to MODES='test' and change the MODEL_PATH to the model you saved. 
 
