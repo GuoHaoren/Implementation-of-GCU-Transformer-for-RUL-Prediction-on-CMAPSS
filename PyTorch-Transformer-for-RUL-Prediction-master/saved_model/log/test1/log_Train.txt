@@ -1,0 +1,436 @@
+------------ Options -------------
+LR: 0.001
+batch_size: 1
+dataset: FD001
+decay_ratio: 0.5
+decay_step: 100.0
+dim_en: 64
+drop_out: 0.1
+epoch: 200
+head: 4
+modes: Train
+num_enc_layers: 1
+num_features: 14
+patch_size: 3
+path: train_multi_models_paper/model/test1
+save_path: train_multi_models_paper/log/test1
+slices: 5
+smooth_param: 0.8
+test_seq_len: 30
+train_seq_len: 30
+weight_decay: 0.0001
+-------------- End ----------------
+
+------------ Options -------------
+LR: 0.001
+batch_size: 1
+dataset: FD001
+decay_ratio: 0.5
+decay_step: 100.0
+dim_en: 64
+drop_out: 0.1
+epoch: 200
+head: 4
+modes: Train
+num_enc_layers: 1
+num_features: 14
+patch_size: 3
+path: train_multi_models_paper/model/test1
+save_path: train_multi_models_paper/log/test1
+slices: 5
+smooth_param: 0.8
+test_seq_len: 30
+train_seq_len: 30
+weight_decay: 0.0001
+-------------- End ----------------
+
+------------ Options -------------
+LR: 0.001
+batch_size: 1
+dataset: FD001
+decay_ratio: 0.5
+decay_step: 100.0
+dim_en: 64
+drop_out: 0.1
+epoch: 200
+head: 4
+modes: Train
+num_enc_layers: 1
+num_features: 14
+patch_size: 3
+path: train_multi_models_paper/model/test1
+save_path: train_multi_models_paper/log/test1
+slices: 5
+smooth_param: 0.8
+test_seq_len: 30
+train_seq_len: 30
+weight_decay: 0.0001
+-------------- End ----------------
+
+------------ Options -------------
+LR: 0.001
+batch_size: 1
+dataset: FD001
+decay_ratio: 0.5
+decay_step: 100.0
+dim_en: 64
+drop_out: 0.1
+epoch: 200
+head: 4
+modes: Train
+num_enc_layers: 1
+num_features: 14
+patch_size: 3
+path: train_multi_models_paper/model/test1
+save_path: train_multi_models_paper/log/test1
+slices: 5
+smooth_param: 0.8
+test_seq_len: 30
+train_seq_len: 30
+weight_decay: 0.0001
+-------------- End ----------------
+
+------------ Options -------------
+LR: 0.001
+batch_size: 1
+dataset: FD001
+decay_ratio: 0.5
+decay_step: 100.0
+dim_en: 64
+drop_out: 0.1
+epoch: 200
+head: 4
+modes: Train
+num_enc_layers: 1
+num_features: 14
+patch_size: 3
+path: train_multi_models_paper/model/test1
+save_path: train_multi_models_paper/log/test1
+slices: 5
+smooth_param: 0.8
+test_seq_len: 30
+train_seq_len: 30
+weight_decay: 0.0001
+-------------- End ----------------
+
+------Train-------
+------train_multi_models_paper/model/test1-FD001-------
+------------ Options -------------
+LR: 0.001
+batch_size: 1
+dataset: FD001
+decay_ratio: 0.5
+decay_step: 100.0
+dim_en: 64
+drop_out: 0.1
+epoch: 200
+head: 4
+modes: Train
+num_enc_layers: 1
+num_features: 14
+patch_size: 3
+path: train_multi_models_paper/model/test1
+save_path: train_multi_models_paper/log/test1
+slices: 5
+smooth_param: 0.8
+test_seq_len: 30
+train_seq_len: 30
+weight_decay: 0.0001
+-------------- End ----------------
+
+------Train-------
+------train_multi_models_paper/model/test1-FD001-------
+------------ Options -------------
+LR: 0.001
+batch_size: 1
+dataset: FD001
+decay_ratio: 0.5
+decay_step: 100.0
+dim_en: 64
+drop_out: 0.1
+epoch: 200
+head: 4
+modes: Train
+num_enc_layers: 1
+num_features: 14
+patch_size: 3
+path: train_multi_models_paper/model/test1
+save_path: train_multi_models_paper/log/test1
+slices: 5
+smooth_param: 0.8
+test_seq_len: 30
+train_seq_len: 30
+weight_decay: 0.0001
+-------------- End ----------------
+
+------Train-------
+------train_multi_models_paper/model/test1-FD001-------
+------------ Options -------------
+LR: 0.001
+batch_size: 1
+dataset: FD001
+decay_ratio: 0.5
+decay_step: 100.0
+dim_en: 64
+drop_out: 0.1
+epoch: 200
+head: 4
+modes: Train
+num_enc_layers: 1
+num_features: 14
+patch_size: 3
+path: train_multi_models_paper/model/test1
+save_path: train_multi_models_paper/log/test1
+slices: 5
+smooth_param: 0.8
+test_seq_len: 30
+train_seq_len: 30
+weight_decay: 0.0001
+-------------- End ----------------
+
+------Train-------
+------train_multi_models_paper/model/test1-FD001-------
+------------ Options -------------
+LR: 0.001
+batch_size: 1
+dataset: FD001
+decay_ratio: 0.5
+decay_step: 100.0
+dim_en: 64
+drop_out: 0.1
+epoch: 200
+head: 4
+modes: Train
+num_enc_layers: 1
+num_features: 14
+patch_size: 3
+path: train_multi_models_paper/model/test1
+save_path: train_multi_models_paper/log/test1
+slices: 5
+smooth_param: 0.8
+test_seq_len: 30
+train_seq_len: 30
+weight_decay: 0.0001
+-------------- End ----------------
+
+------Train-------
+------train_multi_models_paper/model/test1-FD001-------
+------------ Options -------------
+LR: 0.001
+batch_size: 1
+dataset: FD001
+decay_ratio: 0.5
+decay_step: 100.0
+dim_en: 64
+drop_out: 0.1
+epoch: 200
+head: 4
+modes: Train
+num_enc_layers: 1
+num_features: 14
+patch_size: 3
+path: train_multi_models_paper/model/test1
+save_path: train_multi_models_paper/log/test1
+slices: 5
+smooth_param: 0.8
+test_seq_len: 30
+train_seq_len: 30
+weight_decay: 0.0001
+-------------- End ----------------
+
+------Train-------
+------train_multi_models_paper/model/test1-FD001-------
+Epoch Loss: 0, training loss: 0.21007, testing rmse: 21.05829, score: 1439.96451
+------------------------------------------------------------
+------------ Options -------------
+LR: 0.001
+batch_size: 1
+dataset: FD001
+decay_ratio: 0.5
+decay_step: 100.0
+dim_en: 64
+drop_out: 0.1
+epoch: 200
+head: 4
+modes: Train
+num_enc_layers: 1
+num_features: 14
+patch_size: 3
+path: train_multi_models_paper/model/test1
+save_path: train_multi_models_paper/log/test1
+slices: 5
+smooth_param: 0.8
+test_seq_len: 30
+train_seq_len: 30
+weight_decay: 0.0001
+-------------- End ----------------
+
+------Train-------
+------train_multi_models_paper/model/test1-FD001-------
+------------ Options -------------
+LR: 0.001
+batch_size: 1
+dataset: FD001
+decay_ratio: 0.5
+decay_step: 100.0
+dim_en: 64
+drop_out: 0.1
+epoch: 200
+head: 4
+modes: Train
+num_enc_layers: 1
+num_features: 14
+patch_size: 3
+path: train_multi_models_paper/model/test1
+save_path: train_multi_models_paper/log/test1
+slices: 5
+smooth_param: 0.8
+test_seq_len: 30
+train_seq_len: 30
+weight_decay: 0.0001
+-------------- End ----------------
+
+------Train-------
+------train_multi_models_paper/model/test1-FD001-------
+------------ Options -------------
+LR: 0.001
+batch_size: 20
+dataset: FD001
+decay_ratio: 0.5
+decay_step: 100.0
+dim_en: 64
+drop_out: 0.1
+epoch: 200
+head: 4
+modes: Train
+num_enc_layers: 1
+num_features: 14
+patch_size: 3
+path: train_multi_models_paper/model/test1
+save_path: train_multi_models_paper/log/test1
+slices: 5
+smooth_param: 0.8
+test_seq_len: 30
+train_seq_len: 30
+weight_decay: 0.0001
+-------------- End ----------------
+
+------Train-------
+------train_multi_models_paper/model/test1-FD001-------
+Epoch Loss: 0, training loss: 0.20667, testing rmse: 14.50725, score: 323.99987
+------------------------------------------------------------
+Epoch Loss: 1, training loss: 0.12817, testing rmse: 15.39292, score: 281.31522
+------------------------------------------------------------
+Epoch Loss: 2, training loss: 0.11829, testing rmse: 13.92150, score: 313.24200
+------------------------------------------------------------
+Epoch Loss: 3, training loss: 0.11495, testing rmse: 14.02444, score: 332.06757
+------------------------------------------------------------
+Epoch Loss: 4, training loss: 0.11309, testing rmse: 13.58813, score: 271.00960
+------------------------------------------------------------
+Epoch Loss: 5, training loss: 0.11261, testing rmse: 13.53625, score: 257.91704
+------------------------------------------------------------
+Epoch Loss: 6, training loss: 0.11115, testing rmse: 13.29547, score: 232.09760
+------------------------------------------------------------
+Epoch Loss: 7, training loss: 0.11088, testing rmse: 13.12122, score: 273.72601
+------------------------------------------------------------
+Epoch Loss: 8, training loss: 0.11077, testing rmse: 13.17030, score: 287.67220
+------------------------------------------------------------
+Epoch Loss: 9, training loss: 0.10949, testing rmse: 12.95715, score: 245.11931
+------------------------------------------------------------
+------------ Options -------------
+LR: 0.001
+batch_size: 20
+dataset: FD001
+decay_ratio: 0.5
+decay_step: 100.0
+dim_en: 64
+drop_out: 0.1
+epoch: 200
+head: 4
+modes: Train
+num_enc_layers: 1
+num_features: 14
+patch_size: 3
+path: saved_model/model/test1
+save_path: saved_model/log/test1
+slices: 5
+smooth_param: 0.8
+test_seq_len: 30
+train_seq_len: 30
+weight_decay: 0.0001
+-------------- End ----------------
+
+------Train-------
+------saved_model/model/test1-FD001-------
+Epoch Loss: 0, training loss: 0.20666, testing rmse: 14.37605, score: 321.02617
+------------------------------------------------------------
+Epoch Loss: 1, training loss: 0.13073, testing rmse: 15.29221, score: 281.74627
+------------------------------------------------------------
+Epoch Loss: 2, training loss: 0.12153, testing rmse: 14.01941, score: 300.70024
+------------------------------------------------------------
+Epoch Loss: 3, training loss: 0.11832, testing rmse: 13.83878, score: 302.87604
+------------------------------------------------------------
+Epoch Loss: 4, training loss: 0.11485, testing rmse: 13.61067, score: 283.63596
+------------------------------------------------------------
+Epoch Loss: 5, training loss: 0.11228, testing rmse: 13.23837, score: 264.41732
+------------------------------------------------------------
+Epoch Loss: 6, training loss: 0.11083, testing rmse: 13.63607, score: 236.38379
+------------------------------------------------------------
+Epoch Loss: 7, training loss: 0.11100, testing rmse: 14.26598, score: 407.97319
+------------------------------------------------------------
+Epoch Loss: 8, training loss: 0.11030, testing rmse: 13.01546, score: 270.67630
+------------------------------------------------------------
+Epoch Loss: 9, training loss: 0.10918, testing rmse: 13.04860, score: 245.88978
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 13.61306 Best Score: 283.77432========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 13.12141 Best Score: 264.02685========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 12.99632 Best Score: 253.08443========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 12.94730 Best Score: 253.79505========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 12.86673 Best Score: 255.85662========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Final Best Test Loss Updata: 13.20976 Best Score: 274.64027========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 10, training loss: 0.10792, testing rmse: 13.20976, score: 274.64027
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Final Best Test Loss Updata: 13.15162 Best Score: 271.70174========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 11, training loss: 0.10741, testing rmse: 13.15162, score: 271.70174
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 12.86671 Best Score: 254.08799========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 12.81224 Best Score: 244.53339========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 12.76305 Best Score: 242.40664========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 12, training loss: 0.10864, testing rmse: 13.16483, score: 290.87337
+------------------------------------------------------------
+Epoch Loss: 13, training loss: 0.10718, testing rmse: 13.22772, score: 268.39379
+------------------------------------------------------------
+Epoch Loss: 14, training loss: 0.10660, testing rmse: 13.60032, score: 286.26540
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 12.72069 Best Score: 246.56456========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 15, training loss: 0.10672, testing rmse: 13.38633, score: 283.26968
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Final Best Test Loss Updata: 13.10441 Best Score: 248.57371========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 16, training loss: 0.10711, testing rmse: 13.10441, score: 248.57371
+------------------------------------------------------------
+Epoch Loss: 17, training loss: 0.10607, testing rmse: 13.24072, score: 275.39161
+------------------------------------------------------------

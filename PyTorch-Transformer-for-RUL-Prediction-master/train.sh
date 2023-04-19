@@ -3,8 +3,8 @@ DATASET='FD001'
 
 MODES='Train'
 
-MODEL_PATH='train_multi_models_paper/model/test1'
-SAVE_PATH='train_multi_models_paper/log/test1'
+MODEL_PATH='saved_model/model/test1'
+SAVE_PATH='saved_model/log/test1'
 
 
 SMOOTH_PARAM=0.8
@@ -14,8 +14,7 @@ HEADS=4
 NUM_ENC_LAYERS=1
 NUM_FEATURES=14
 DROP_OUT=0.1
-BATCH_SIZE=1
-TARGET_BATCH_SIZE=6
+BATCH_SIZE=20
 TRAIN_SEQ_LEN=30
 TEST_SEQ_LEN=30
 MASK_PERCENTAGE=0.25

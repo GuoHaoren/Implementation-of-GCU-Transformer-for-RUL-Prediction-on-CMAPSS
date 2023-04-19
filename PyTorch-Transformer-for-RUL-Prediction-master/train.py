@@ -170,7 +170,7 @@ def Training(opt):
                         best_score = res
                         cur_best = train_model.state_dict()
                         best_model_path = PATH + "_new_best" + ".pth"
-                        torch.save(cur_best, PATH + "_new_best" + ".pth")
+                        torch.save(cur_best, best_model_path)
                         logger.cprint(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>")
                         logger.cprint(
                             "========New Best Test Loss Updata: %1.5f Best Score: %1.5f========" % (test_loss, res))
@@ -223,7 +223,7 @@ def Training(opt):
                 final_best_score = res
                 cur_best = train_model.state_dict()
                 best_model_path = PATH + "final_new_best" + ".pth"
-                torch.save(cur_best, PATH + "final_new_best" + ".pth")
+                torch.save(cur_best, best_model_path)
                 logger.cprint(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>")
                 logger.cprint(
                     "========New Final Best Test Loss Updata: %1.5f Best Score: %1.5f========" % (test_loss, res))
