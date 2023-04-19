@@ -1,4 +1,4 @@
-#GCU-Transformer for RUL Prediction (C-MAPSS)
+## GCU-Transformer for RUL Prediction (C-MAPSS)
 An implementation with GCU-Transformer with PyTorch for remaining useful life prediction on C-MAPSS.   
 _Author: Haoren Guo, National University of Singapore_
 
