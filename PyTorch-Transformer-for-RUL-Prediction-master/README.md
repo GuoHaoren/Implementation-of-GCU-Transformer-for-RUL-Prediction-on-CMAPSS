@@ -9,7 +9,6 @@ Simply modify the parameters in `train.sh` run `bash train.sh`.
 ## Testing
 Change MODES='Train' to MODES='test' and change the MODEL_PATH to the model you saved. 
 
-The testing is conducted for each epoch as the data set is not large so it's no big deal but you may remove them and only do the evaluation after finishing the training epochs.
 
 ## Environment Details
 ```
