@@ -23,7 +23,7 @@ pytorch==1.8.1
 ## Credit
 This work is inpired by Mo, Y., Wu, Q., Li, X., & Huang, B. (2021). Remaining useful life estimation via transformer encoder enhanced by a gated convolutional unit. Journal of Intelligent Manufacturing, 1-10.
 
-###If you find this repository beneficial to your research, I would appreciate it if you could cite relevant portions of my work.
+### If you find this repository beneficial to your research, I would appreciate it if you could cite relevant portions of my work.
 ```
 @inproceedings{guo2022masked,
   title={Masked self-supervision for remaining useful lifetime prediction in machine tools},
